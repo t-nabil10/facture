@@ -5,85 +5,95 @@
       "cnie": "B279284",
       "ice": "003340355000045",
       "if": "53879974",
-      "tp": "32904860"
-    },
-    {
-      "name": "MOHAMMED ALAMI",
-      "cnie": "C123456",
-      "ice": "003340355000046",
-      "if": "53879975",
-      "tp": "32904861"
-    },
-    {
-      "name": "YASSINE HANNANE",
-      "cnie": "BE725362",
-      "ice": "003070340000027",
-      "if": "52433766",
-      "tp": "34703424"
-    },
-    {
-      "name": "NADIF ABDELAZIZ",
-      "cnie": "H106494",
-      "ice": "003044285000068",
-      "if": "51826747",
-      "tp": "33651269"
-    },
-    {
-      "name": "DRIOUCH SAID",
-      "cnie": "B481181",
-      "ice": "003342029000049",
-      "if": "53886067",
-      "tp": "32904865"
+      "tp": "32904860",
+      "address": "CASABLANCA"
     },
     {
       "name": "MUSTAPHA SEMMAMI",
       "cnie": "B279284",
       "ice": "002505985000076",
       "if": "96292079",
-      "tp": "34002617"
+      "tp": "34002617",
+      "address": "CASABLANCA"
     },
     {
       "name": "ABDERHMAN HAMOUCHI",
       "cnie": "B83672",
       "ice": "003091871000011",
       "if": "52489276",
-      "tp": "33651334"
+      "tp": "33651334",
+      "address": "CASABLANCA"
     },
     {
       "name": "MARZOUG ABDELKHALEK",
       "cnie": "B360207",
       "ice": "0025068443000093",
       "if": "45686689",
-      "tp": "34900304"
+      "tp": "34900304",
+      "address": "CASABLANCA"
+    },
+    {
+      "name": "YASSINE HANNANE",
+      "cnie": "BE725362",
+      "ice": "003070340000027",
+      "if": "52433766",
+      "tp": "34703424",
+      "address": "DB GHALLEF RUE 83 NR 07 CASABLANCA"
+    },
+    {
+      "name": "NADIF ABDELAZIZ",
+      "cnie": "H106494",
+      "ice": "003044285000068",
+      "if": "51826747",
+      "tp": "33651269",
+      "address": "HAY FARAH RUE 70 N 25 CASABLANCA"
+    },
+    {
+      "name": "DRIOUCH SAID",
+      "cnie": "B481181",
+      "ice": "003342029000049",
+      "if": "53886067",
+      "tp": "32904865",
+      "address": "OULED MALEK HAMRI BOUSKOURA CASA"
     },
     {
       "name": "MOHAMED HAJHOUJ",
       "cnie": "B413777",
       "ice": "003030394000026",
       "if": "51779833",
-      "tp": "36105870"
+      "tp": "36105870",
+      "address": "BLOC E RUE 2 NR 1 DRABNA SIDI MAAROUF CASA"
     },
     {
       "name": "BENAZZI LARBI",
       "cnie": "A52722",
       "ice": "002497867000042",
       "if": "45675701",
-      "tp": "33013803"
+      "tp": "33013803",
+      "address": "N 55 BC 9 BD ABDESLAM BEN EL MOKHTAR HAY AL KARIA S M CASA"
     }
   ],
+  "clients": [
+    {
+      "name": "RIAD OUM EL KOURA PRIVE",
+      "address": "DOUAR EL MZABIENNE OULAD MOUSSA SIDI MAAROUF 20190 CASABLANCA",
+      "ice": "000038676000050"
+    }
+  ],
+  "invoiceHistory": [],
   "invoiceCounters": {
-    "003340355000045": 18,
+    "003340355000045": 3,
     "003340355000046": 1,
-    "003044285000068": 29,
-    "003342029000049": 29,
-    "002505985000076": 29,
-    "003091871000011": 29,
-    "0025068443000093": 29,
+    "002505985000076": 1,
+    "003091871000011": 13,
+    "0025068443000093": 1,
     "003070340000027": 1,
-    "003030394000026": 121,
+    "003044285000068": 1,
+    "003342029000049": 1,
+    "003030394000026": 1,
     "002497867000042": 1
   },
   "logo": null,
-  "timestamp": "2025-11-29T19:07:36.866Z",
+  "timestamp": "2025-11-30T09:01:52.473Z",
   "version": "1.0"
 }
